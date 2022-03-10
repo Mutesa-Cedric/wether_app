@@ -1,0 +1,23 @@
+{
+    "name": "weather_services",
+    "version": "1.0.0",
+    "description": "this is made with nodejs and you use it by entering a location and weather conditions of that location are displayed to you",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["weather serivices", "location", "mutesa cedric", "geographical coordinates", "weather conditions"],
+    "author": "MUTESA Cedric",
+    "license": "ISC",
+    "dependencies": {
+        "request": "^2.88.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mutesa-Cedric/wether_app.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Mutesa-Cedric/wether_app/issues"
+    },
+    "homepage": "https://github.com/Mutesa-Cedric/wether_app#readme"
+}
